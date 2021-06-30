@@ -1,0 +1,31 @@
+need of logistic regression:
+
+
+time spent on social media,whether clicked on add or not
+independent variable-->useractivetime
+ex:  useractivetime    clickedonADD 
+       2:00                 0 
+       3:00                 1
+       5:55                 0
+
+
+linear regression plot it
+the line we get ..is not helpful for predicting the dependent variable using the
+independent varibale.
+
+categorical data
+ex: pass/fail,true/false,positive/negative,0/1
+
+classification of logistic regression
+
+sigmoid function  Y=1/1+e^(-x)
+x=independent variable
+e=eulers constant=2.718
+Y=output
+
+Sigmoid function is trying to convert the independent variable into a 
+expression of probablity,that ranges between 0 and 1 with respect to the dependentvariable.
+
+
+
+
